@@ -1,0 +1,4 @@
+python ./VoxNet_Devine.py
+python ./VoxNet_DevineFT.py
+python ./VoxNet_Devine_Test_FT.py
+
